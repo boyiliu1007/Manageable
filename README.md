@@ -1,6 +1,6 @@
-# Managable
+# Manageable
 
-Managable is a task management application designed to help users organize and track their tasks efficiently. It features a Vue 3 frontend and an Express.js backend, providing a seamless user experience with authentication, task categorization, and due date management.
+Manageable is a task management application designed to help users organize and track their tasks efficiently. It features a Vue 3 frontend and an Express.js backend, providing a seamless user experience with authentication, task categorization, and due date management.
 
 ---
 
